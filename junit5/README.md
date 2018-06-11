@@ -1,3 +1,2 @@
-### Relevant Articles:
-- [The Basics of JUnit 5 – A Preview](http://www.baeldung.com/junit-5-preview)
-- [A Guide to JUnit 5](http://www.baeldung.com/junit-5)
+## Relevant articles: 
+- [The Order of Tests in JUnit](http://www.baeldung.com/junit-5-test-order)
